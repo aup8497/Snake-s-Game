@@ -3,5 +3,4 @@
   
  Here is a snapshot of the game
 [id]: https://github.com/aup8497/Snake-s-Game/blob/master/unix%20pic.png "Game pic"
-Images
 ![alt text][id]
